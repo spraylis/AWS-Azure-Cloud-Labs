@@ -5,7 +5,7 @@ This repository showcases my practical experience in deploying and managing clou
 
 ## Cloud Platforms and Services
 - AWS: EC2 (Virtual Machines), S3 (Storage), IAM (Identity and Access Management), VPC (Networking).
-- Microsoft Azure: Virtual Machines, Virtual Networks (VNet), Resource Groups.
+- Microsoft Azure: Virtual Machines, Virtual Networks (VNet), Resource Groups, Azure Lab Services.
 - Tools: Lucidchart (Architecture Diagrams), Remote Desktop (RDP), SSH.
 
 ## Lab Highlights
@@ -17,6 +17,7 @@ This repository showcases my practical experience in deploying and managing clou
 
 ### Lab 2: Azure Virtual Machine Setup
 - Deployed a Windows Virtual Machine in Azure.
+- Deployed a Linux Virtual Machine using Azure Lab Services (LinuxLab2024).
 - Configured inbound port rules and networking settings.
 - Evidence: See azure_vm_setup.png
 
